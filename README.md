@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 - Assets : https://www.freepik.com/
 
 
-<img width="1652" alt="Weather App" src="https://github.com/user-attachments/assets/6724d64d-d0ee-4785-b086-7e7a2d2ace29">
+
+<img width="1678" alt="Weather App" src="https://github.com/user-attachments/assets/c6533e7d-52fd-4ccc-9760-2db86a818e1b">
